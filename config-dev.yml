@@ -1,4 +1,4 @@
 # server: 
 #   port: 8080
 config: 
-  info: master...config-dev.yml...config.info...v=3
+  info: master...config-dev.yml...config.info...v=4
